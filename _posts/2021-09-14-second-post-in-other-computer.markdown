@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "first post!"
+title:  "second post!"
 date:   2021-09-14 08:14:15 +0900
 categories: anything
 ---
