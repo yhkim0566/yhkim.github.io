@@ -51,12 +51,12 @@
   h5,
   h6 {
     margin-bottom: 0;
-    font-family: $sans-serif-narrow;
+    font-family: $monospace;
   }
 
   p,
   li {
-    font-family: $serif;
+    font-family: $monospace;
     font-size: $type-size-6;
     line-height: 1.3;
   }
@@ -149,7 +149,7 @@
   padding-left: 15px;
   padding-right: 25px;
   line-height: 1;
-  font-family: $cute;
+  font-family: $monospace;
 
   @include breakpoint($large) {
     display: block;
@@ -173,14 +173,14 @@
   }
 }
 .sidebar .author__name {
-  font-family: $cute;
+  font-family: $monospace;
   font-size: $type-size-4;
   color:#FFF;
 }
 
 .author__bio {
   margin: 0;
-  font-family: $cute;
+  font-family: $monospace;
   font-size: $type-size-4;
 
   @include breakpoint($large) {
@@ -189,7 +189,7 @@
   }
 
   p {
-    font-family: $cute;
+    font-family: $monospace;
     margin-top: 1.6px;
     margin-bottom: 3px;
   }
@@ -199,7 +199,7 @@
   position: relative;
   display: table-cell;
   vertical-align: middle;
-  font-family: $sans-serif;
+  font-family: $monospace;
   z-index: 20;
   position: relative;
   cursor: pointer;
