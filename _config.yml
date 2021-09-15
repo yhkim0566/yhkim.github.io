@@ -75,7 +75,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  "/assets/images/my-cat.jpg" # Open Graph/Twitter default site image
+og_image                 :  "/assets/images/GIST.jpg" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Youngho KIM"
-  avatar           : "https://user-images.githubusercontent.com/42318591/108615416-2e1bb580-7447-11eb-8a54-6338e53ce625.png"
+  avatar           : "https://user-images.githubusercontent.com/36468714/133375480-f5d20285-6420-4e37-aae3-6b7a8ba24075.jpg"
   bio              : "반갑습니다. 강화학습 분야 ph.D. 과정중입니다. 블로그는 조금씩 고쳐가는 중입니다."
   #location         : "Seoul, South Korea"
   links:
